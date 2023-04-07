@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# terraform
+.terraform*
+
+# cloudfunctions デプロイ用
+functions_src.zip
